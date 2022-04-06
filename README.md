@@ -1,2 +1,2 @@
-# mastering-grid-css
+# mastering-flex-css
 Created with CodeSandbox
